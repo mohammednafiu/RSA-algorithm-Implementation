@@ -7,7 +7,7 @@ Finding a way to transfer data securely through networks
 
 First you have to convert the text too a number
 	
-	*P & q is only know by the sender
+	*	P & q is only know by the sender
 	*	p & q = n 
 	*	N and k is publicize to the public
 	*	The receiver use n & k to Encrypter there messages M 
@@ -26,8 +26,8 @@ https://replit.com/@monaf1/RSA-1#main.py
 The code is run using a Prime modulus made comprised of the numbers p and q. You'll be asked to enter prime numbers for p and q, which will print out the modulus and eulerotient if both numbers are proven True. After that, you'll be prompted to provide a number that doesn't share any factors with the first two, as well as a name to encrypt. The length of time it takes the code to encrypt/decrypt the message depends on the size of the integers.
 
 ### Acknowledgements
-https://www.techtarget.com/searchsecurity/definition/RSA
+RSA algorithm (Rivest-Shamir-Adleman) https://www.techtarget.com/searchsecurity/definition/RSA
 
-https://pneumannsecurity.blogspot.com/2020/06/crypto-key-and-key-exchange.html
+Why should people worry about the existing encryption algorithms? https://pneumannsecurity.blogspot.com/2020/06/crypto-key-and-key-exchange.html
 
-https://www.geeksforgeeks.org/rsa-algorithm-cryptography/
+RSA Algorithm in Cryptography https://www.geeksforgeeks.org/rsa-algorithm-cryptography/
